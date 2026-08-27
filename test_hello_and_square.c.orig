@@ -3,6 +3,11 @@
 int sqaure(int n);
 int main(void)
 {
+    printf("hello.c is tested.")
+<<<<<<< HEAD
+}
+
+=======
     printf("sqaure functionality can be tested.")
 }
 
@@ -10,4 +15,5 @@ int square(int n)
 {
     return n*n;
 }
+>>>>>>> goodbye
 // this is a comment
