@@ -1,0 +1,7 @@
+If you're not from our company and somehow got this file please
+dont read it. It contains confidential and sensitive information.
+It also contains infomation about the emergency config.
+
+1. confidential information
+2. sensitive information
+3. Emergency commit information
